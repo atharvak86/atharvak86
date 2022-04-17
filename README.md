@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharvak86
 - 👀 I’m interested in AI, ML and Data Science
-- 🌱 I’m currently pursuing B.E.
+- 🌱 CSE'23.
 - 💞️ I’m looking for intern
 - 📫 Linkedin-https://www.linkedin.com/in/atharva-khadse-3041731b9/
 
